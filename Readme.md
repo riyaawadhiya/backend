@@ -1,4 +1,5 @@
 # Basics and setup 
+
 # MERN Backend Setup
 
 ## Step 1: Initialize Project
@@ -13,4 +14,9 @@ npm install -D nodemon
 
 ## prettier    
 npm i -D prettier 
+ni .prettierignore
+
+## DB connection 
+
+Mongo DB 
 
