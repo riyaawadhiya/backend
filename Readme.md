@@ -8,4 +8,9 @@ npm init -y
 npm install
 npm install express
 ## Step 3: Packages for MERN
-npm install mongoose dotenv nodemon
+npm install mongoose dotenv 
+npm install -D nodemon
+
+## prettier    
+npm i -D prettier 
+

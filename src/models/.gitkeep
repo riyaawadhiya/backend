@@ -1,0 +1,7 @@
+The `models` folder contains all MongoDB schemas using Mongoose.
+# Mongoose schemas
+Define database structure
+
+Handle validation
+
+Create collections in MongoDB
