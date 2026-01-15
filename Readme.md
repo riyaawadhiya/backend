@@ -6,7 +6,7 @@
 npm init -y
 
 ## Step 2: Install Dependencies
-npm install
+npm install , 
 npm install express
 ## Step 3: Packages for MERN
 npm install mongoose dotenv 
