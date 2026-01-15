@@ -1,1 +1,1 @@
-export const DB_NAME = "YTBACKEND"
+export const DB_NAME = "mernApp";
