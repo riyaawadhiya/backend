@@ -1,4 +1,0 @@
-## Middleware
-# Custom middleware functions
-Middleware are functions that execute in the middle of the request–response cycle, used to process requests, handle authentication, logging,
- validation, and errors before sending the response.

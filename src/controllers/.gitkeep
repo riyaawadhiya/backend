@@ -1,5 +1,0 @@
-## Controllers
-# Business logic (request handling)
-Controllers handle the application logic.
-They receive requests from routes, process data (business logic), interact with 
-models, and send responses back to the client.

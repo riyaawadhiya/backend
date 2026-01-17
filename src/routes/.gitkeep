@@ -1,7 +1,0 @@
-## Routes Folder
-
-The `routes` folder contains all API route files (Express routers).
-# API routes
-Example structure:
-auth.routes.js
-user.routes.js

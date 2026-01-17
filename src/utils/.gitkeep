@@ -1,4 +1,0 @@
-## utils
-# Helper / utility functions
-The utils folder contains helper or utility functions that are used across the application, such as error handlers, token 
-generators, email services, and common reusable logi
